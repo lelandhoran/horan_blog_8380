@@ -6,8 +6,6 @@ use Request;
 
 use App\Post;
 
-use App\Http\Requests;
-
 class PostController extends Controller
 {
 
